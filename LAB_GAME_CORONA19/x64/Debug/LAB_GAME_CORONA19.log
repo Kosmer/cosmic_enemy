@@ -1,0 +1,45 @@
+﻿  2D_GAME_CORONA19.cpp
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(60,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(61,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(81,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(87,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(88,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(149,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(150,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(171,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(179,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(247,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(256,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(259,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(260,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(264,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(364,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(369,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(370,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(373,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(374,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(388,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(391,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(395,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(396,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(398,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(399,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(415,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(418,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(428,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(437,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(450,71): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(450,96): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(410,15): warning C4101: 'v_Oblo': unreferenced local variable
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(460,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(455,9): warning C4101: 'cont': unreferenced local variable
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(455,6): warning C4101: 'i': unreferenced local variable
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(482,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(486,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(532,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(532,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(587,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(618,13): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(663,27): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\LAB_GAME_CORONA19\2D_GAME_CORONA19.cpp(822,18): warning C4305: '=': truncation from 'int' to 'bool'
+  LAB_GAME_CORONA19.vcxproj -> C:\Users\leona\Desktop\Unibo\Primo_Anno\Computer graphics\LAB\LAB_02\LAB_02\x64\Debug\LAB_GAME_CORONA19.exe
